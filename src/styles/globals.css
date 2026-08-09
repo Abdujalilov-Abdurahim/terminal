@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: "IBM Plex Sans", sans-serif;
+}
+
+::selection {
+  background: #1e7a69;
+  color: #fff;
+}
+
+@layer utilities {
+  .bg-grid-fade {
+    mask-image: radial-gradient(ellipse 900px 500px at 50% 0%, black, transparent 70%);
+  }
+}
