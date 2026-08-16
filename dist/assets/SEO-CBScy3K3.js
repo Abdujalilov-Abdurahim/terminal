@@ -1,0 +1,1 @@
+import{j as t}from"./index-R68t0VSy.js";function r({title:e,description:n}){return t.jsxs(t.Fragment,{children:[t.jsx("title",{children:e}),t.jsx("meta",{name:"description",content:n}),t.jsx("meta",{property:"og:title",content:e}),t.jsx("meta",{property:"og:description",content:n}),t.jsx("meta",{property:"og:type",content:"website"})]})}export{r as S};

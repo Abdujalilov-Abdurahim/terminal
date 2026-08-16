@@ -1,0 +1,1 @@
+import{j as a,d as s}from"./index-R68t0VSy.js";function n({children:r,hoverable:e=!0,className:o,...t}){return a.jsx("div",{className:s("rounded-xl border border-border-soft bg-surface p-6 transition-all",e&&"hover:border-teal-dim hover:-translate-y-0.5",o),...t,children:r})}export{n as C};

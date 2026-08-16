@@ -1,1 +1,0 @@
-import{j as t,d as n}from"./index-DbzRrKw7.js";function s({children:r,className:o,...e}){return t.jsx("span",{className:n("rounded-md border border-border px-2 py-1 font-mono text-[11px] text-ink-dim",o),...e,children:r})}export{s as B};
